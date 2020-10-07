@@ -1,0 +1,19 @@
+.Header{
+    background-color: #98D2D3;
+    display: flex;
+    justify-content: space-around;
+}
+
+.section-container-logo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 50%;
+}
+
+.section-container-nav{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 50%;
+}
