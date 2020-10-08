@@ -10,7 +10,9 @@ function Home() {
     <div className="Home">
       <Header description="Conheça sua Coletanea"/>
       <div className="centro">
-        
+        <div className="home">
+      
+        </div>
       </div>
       <Footer/>
     </div>
