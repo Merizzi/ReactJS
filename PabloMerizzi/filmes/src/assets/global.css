@@ -5,8 +5,7 @@
 }
 
 .centro{
-    width: 1024px;
-    margin: auto;
     display: flex;
     justify-content: center;
+    align-items: center;
 }

@@ -2,6 +2,7 @@
     background-color: #98D2D3;
     display: flex;
     justify-content: space-around;
+    height: 180px;
 }
 
 .section-container-logo{
@@ -11,9 +12,14 @@
     width: 50%;
 }
 
+
 .section-container-nav{
     display: flex;
     justify-content: space-around;
     align-items: center;
     width: 50%;
+}
+
+.section-container-nav a {
+    
 }
